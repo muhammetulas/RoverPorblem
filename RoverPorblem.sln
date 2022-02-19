@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverPorblem", "RoverPorblem\RoverPorblem.csproj", "{0632B008-F3D9-4E09-87E7-AEE445242B51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverProblem.Test", "RoverProblem.Test\RoverProblem.Test.csproj", "{67C86DCB-8ECD-4688-ABD5-8661B6A59C0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0632B008-F3D9-4E09-87E7-AEE445242B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0632B008-F3D9-4E09-87E7-AEE445242B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0632B008-F3D9-4E09-87E7-AEE445242B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C86DCB-8ECD-4688-ABD5-8661B6A59C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C86DCB-8ECD-4688-ABD5-8661B6A59C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C86DCB-8ECD-4688-ABD5-8661B6A59C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C86DCB-8ECD-4688-ABD5-8661B6A59C0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
